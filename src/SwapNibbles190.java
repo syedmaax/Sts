@@ -1,4 +1,4 @@
-public class SwapNibbles {
+public class SwapNibbles190 {
     // you need treat n as an unsigned value
     public int reverseBits(int n) {
         int ans = 0;
