@@ -1,4 +1,4 @@
-class Solution {
+class SimpleSieve {
     public int countPrimes(int n) {
         int [] arr = new int[n+1];
         if(n==3){
