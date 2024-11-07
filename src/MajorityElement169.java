@@ -1,4 +1,4 @@
-class MajorityElement {
+class MajorityElement169 {
     public int majorityElement(int[] nums) {
         int count = 0;
         int candidate = 0;
